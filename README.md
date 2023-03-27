@@ -15,3 +15,4 @@
     3) H2 inmemory database
     4) Внешний API для перевода - YANDEX TRANSLATE API
     5) SQL 
+    6) Lombok
