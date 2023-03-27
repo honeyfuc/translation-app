@@ -7,3 +7,11 @@
 В базу данных записывается следующая информация:
 
 <img width="692" alt="Screenshot 2023-03-27 at 23 48 29" src="https://user-images.githubusercontent.com/76592052/228064316-b0c1c233-0fee-494d-a7da-04204158bccc.png">
+
+В ходе разработки использовались следующие технологии:
+
+    1) Java (Spring Framework)
+    2) Spting JDBC (JDBCTemplate)
+    3) H2 inmemory database
+    4) Внешний API для перевода - YANDEX TRANSLATE API
+    5) SQL 
