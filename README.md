@@ -10,9 +10,10 @@
 
 В ходе разработки использовались следующие технологии:
 
-    1) Java (Spring Framework)
-    2) Spting JDBC (JDBCTemplate)
-    3) H2 inmemory database
-    4) Внешний API для перевода - YANDEX TRANSLATE API
-    5) SQL 
-    6) Lombok
+    1) Java 17
+    2) Spring Framework
+    3) Spting JDBC (JDBCTemplate)
+    4) H2 inmemory database
+    5) Внешний API для перевода - YANDEX TRANSLATE API
+    6) SQL 
+    7) Lombok
