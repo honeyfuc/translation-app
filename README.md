@@ -9,9 +9,13 @@
 
 #### POST/translate
 
-    URI parameters
-        - from
-        - to 
+Входные данные - json следующего вида:
+
+```java
+{
+    "content" : "Today is perfect weather! Yeah"
+}
+```
 
 ## Database
 В базу данных записывается следующая информация:
