@@ -10,8 +10,8 @@
 #### POST/translate
 
     URI parameters
-        * from
-        * to 
+        *from
+        *to 
 
 
 
