@@ -16,6 +16,13 @@
     "content" : "Today is perfect weather! Yeah"
 }
 ```
+Выходные данные:
+
+```java
+{
+    "translatedContent": "Сегодня является идеальный погода! Да "
+}
+```
 
 ## Database
 В базу данных записывается следующая информация:
