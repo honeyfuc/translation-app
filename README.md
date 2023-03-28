@@ -28,6 +28,10 @@
     "translatedContent": "Сегодня идеальная погода! Да "
 }
 ```
+## Test Program
+Чтобы протестировать работу сервиса достаточно в Postman послать запрос по следующему Request URL с желаемым телом запроса:
+
+   http://localhost:8090/translate?from=en&to=ru
 
 ## Database
 База данных имеет следующую реализацию:
