@@ -30,7 +30,7 @@
 ```
 
 ## Database
-В базу данных имеет следующую реализацию:
+База данных имеет следующую реализацию:
 
 <img width="692" alt="Screenshot 2023-03-27 at 23 48 29" src="https://user-images.githubusercontent.com/76592052/228064316-b0c1c233-0fee-494d-a7da-04204158bccc.png">
 
