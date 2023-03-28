@@ -10,11 +10,8 @@
 #### POST/translate
 
     URI parameters
-        *from
-        *to 
-
-
-
+        - from
+        - to 
 
 ## Database
 В базу данных записывается следующая информация:
