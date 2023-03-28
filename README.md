@@ -11,8 +11,8 @@
 
 #### RequestParams
 
-    * from
-    * to
+    * From
+    * To
 
 Входные данные - json следующего вида:
 
